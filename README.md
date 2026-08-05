@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -49,4 +50,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
