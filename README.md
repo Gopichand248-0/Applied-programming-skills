@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
@@ -12,10 +13,12 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -38,4 +41,12 @@
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0704-binary-search) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
