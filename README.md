@@ -132,20 +132,24 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0100-same-tree) |
 | [0257-binary-tree-paths](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Backtracking
