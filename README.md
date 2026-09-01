@@ -71,6 +71,7 @@
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -131,10 +132,12 @@
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -143,5 +146,10 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Gopichand248-0/Applied-programming-skills/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
